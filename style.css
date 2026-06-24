@@ -1,0 +1,87 @@
+.main {
+    padding: 2rem;
+}
+
+.stButton > button {
+    width: 100%;
+    border-radius: 12px;
+    height: 3em;
+    font-weight: bold;
+}
+
+.stDownloadButton > button {
+    width: 100%;
+    border-radius: 12px;
+}
+
+.feature-box {
+    padding: 15px;
+    border-radius: 12px;
+    background-color: #262730;
+    margin-bottom: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+    color: gray;
+}
+h1 {
+    color: #6366F1 !important;
+    text-align: center;
+}
+.stButton button {
+    border-radius: 15px !important;
+    font-weight: bold !important;
+    width: 100%;
+}
+.stTabs [data-baseweb="tab"] {
+    font-size: 18px;
+    font-weight: 600;
+}
+#MainMenu {
+    visibility: hidden;
+}
+
+footer {
+    visibility: hidden;
+}
+
+header {
+    visibility: hidden;
+}
+.stTabs [data-baseweb="tab-list"] {
+    gap: 20px;
+}
+
+.stTabs [data-baseweb="tab"] {
+    background-color: #1e293b;
+    border-radius: 12px;
+    padding: 12px 25px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.stTabs [aria-selected="true"] {
+    background-color: #6366F1;
+    color: white;
+}
+
+h1 {
+    color: #00D4FF !important;
+    text-align: center;
+}
+
+.stButton button {
+    background-color: #111111;
+    color: white;
+    border-radius: 12px;
+    border: 1px solid #00D4FF;
+}
+
+.stButton button:hover {
+    border-color: #6366F1;
+}
